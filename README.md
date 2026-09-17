@@ -1,4 +1,8 @@
+<div align="center">
+
 # Bingo Fest! 🎱
+
+</div>
 
 Sorteador de números de bingo, simples, leve e sem necessidade de instalação — basta abrir o `index.html` no navegador ou publicar como site estático.
 
@@ -17,7 +21,7 @@ Sorteador de números de bingo, simples, leve e sem necessidade de instalação 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/bingofest.git
+   git clone https://github.com/<seu-usuario>/bingo-fest.git
    cd bingofest
    ```
 2. Abra o `index.html` diretamente no navegador, ou sirva a pasta com qualquer servidor estático, por exemplo:
@@ -40,7 +44,7 @@ O valor deve ser um inteiro entre 1 e 999 (fora desse intervalo, o padrão de 75
 ## 🗂️ Estrutura do projeto
 
 ```
-bingofest/
+bingo-fest/
 ├── assets/         # imagens, sons e bibliotecas vendorizadas (Vue, Lodash)
 ├── css/            # estilos
 ├── js/
@@ -58,9 +62,14 @@ bingofest/
 - [Lodash](https://lodash.com/) (utilitários)
 - HTML5 / CSS3 puro
 
-## 🔊 Créditos
+## 👤 Autor
 
-Efeitos sonoros por [Maoudamashii](http://en.maoudamashii.com/) (ver licença de uso em [LICENSE](LICENSE)).
+**Marcus Guarani**
+
+[![GitHub](https://img.shields.io/badge/GitHub-marcusguarani-181717?style=flat&logo=github)](https://github.com/marcusguarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusguarani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcusguarani)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcusguarani.com.br-000000?style=flat&logo=googlechrome&logoColor=white)](https://marcusguarani.com.br)
+
 
 ## 📄 Licença
 
