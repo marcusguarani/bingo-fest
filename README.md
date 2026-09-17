@@ -73,4 +73,4 @@ bingo-fest/
 
 ## 📄 Licença
 
-Código distribuído sob a licença MIT(LICENSE). Veja [LICENSE](LICENSE)
+Código distribuído sob a licença MIT. [LICENSE](LICENSE) 
