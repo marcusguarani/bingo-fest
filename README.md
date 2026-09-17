@@ -73,4 +73,4 @@ bingo-fest/
 
 ## 📄 Licença
 
-Código distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes (os efeitos sonoros têm licenciamento próprio, separado do código).
+Código distribuído sob a licença MIT(LICENSE). Veja [LICENSE](LICENSE)
